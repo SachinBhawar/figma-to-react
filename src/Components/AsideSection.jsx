@@ -21,7 +21,7 @@ const AsideSection = ({ links }) => {
             </div>
             <div className="flex flex-row w-full box-border justify-between">
                 <p className="text-[#8D8D8D] text-xs">2022@logoname</p>
-                <p className="text-[#8D8D8D] text-xs">Developed by ivon infotech</p>
+                <p className="text-[#8D8D8D] text-xs">Developed by SACHIN BHAWAR</p>
             </div>
         </div>
     );
